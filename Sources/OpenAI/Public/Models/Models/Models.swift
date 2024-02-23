@@ -116,6 +116,8 @@ public extension Model {
     static let ada = "ada"
     
     // Embeddings
+    static let textEmbeddingSmall = "text-embedding-3-small"
+    static let textEmbeddingLarge = "text-embedding-3-large"
     
     static let textEmbeddingAda = "text-embedding-ada-002"
     static let textSearchAda = "text-search-ada-doc-001"
